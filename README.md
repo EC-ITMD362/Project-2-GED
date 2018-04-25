@@ -1,11 +1,4 @@
-# Project-2-GEDJ
-Project 2: Redesign this Website!
+# Self Critique
 
-#Task Analyses
-Make course description as a separate page
-At home page move calendar to the top
-change color scheme
-move links to a separate page
-make basecamp a tab that goes to ITMD362
-make a tab for the validators 
+I believe the result of our website came out very well. I feel we successfully implemented the requirements the professor asked of us plus whatever feedback we got from other peers. We managed to make the website a user-friendly and attractive website that is very easily accessible and runs smoothly and is backed up by positive feedback from user tests. I am very proud of our team and think we all did a fabulous job working together to make this happen.
 
