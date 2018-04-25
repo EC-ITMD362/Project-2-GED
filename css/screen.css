@@ -605,5 +605,4 @@ td {
 .btn input[type=checkbox],[data-toggle=buttons]>
 .btn-group>
 .btn input[type=radio]{position:absolute;clip:rect(0,0,0,0);pointer-events:none}
-.input-group{position:relative;display:table;border-collapse:separate}
 .collapse{display:none}.collapse.in{display:block}tr.collapse.in{display:table-row}tbody.collapse.in{display:table-row-group}
