@@ -1,4 +1,3 @@
-# Self Critique
+# Self Critique:
 
-I believe the result of our website came out very well. I feel we successfully implemented the requirements the professor asked of us plus whatever feedback we got from other peers. We managed to make the website a user-friendly and attractive website that is very easily accessible and runs smoothly and is backed up by positive feedback from user tests. I am very proud of our team and think we all did a fabulous job working together to make this happen.
-
+I believe the result of our website came out very well. I feel we successfully implemented the requirements the professor asked of us plus whatever feedback we got from other peers. We managed to make the website a user-friendly and attractive website that is very easily accessible and runs smoothly and is backed up by positive feedback from user tests. Thanks to this project I especially got very good practice on my CSS which was very much needed, however, I feel I still need more practice in javascript moving forward. I am very proud of our team and think we all did a fabulous job working together to make this happen.
