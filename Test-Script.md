@@ -39,7 +39,7 @@ I want to start off by asking you a few questions regarding your computer/mobile
 
 1. About how many hours a day do you spend using a computer and/or mobile device?
 2. What do you primarily use a computer/mobile device for?
-3. When would you classify a well-made website to be?
+3. What would you classify a well-made website to be?
 4. Do you have a technical background, such as working in a technical field or studying a techincal field?
     If so, what is it and for how many years?
 
@@ -67,12 +67,12 @@ please remember to write down any issue that you come accross.
 
 1. What is the name of this course?
 2. What is the instructors name?
-3. Where I could find information on how to contact the instructor of this course?
+3. Where could I find information on how to contact the instructor of this course?
 4. When is lab 6 due?
 5. In lab 7, how many items must you have in your usability checklist?
 6. What is the topic for the Week 13 class?
 7. What is the title of the second project?
-8. What is the time and location of the instructor's office hours?
+8. What is the time and location of course?
 9. What is the total amount of points you could earn in this course?
 10. Where would I go to find a link to a CSS Validator? Please give me name of the section and subsection.
 
@@ -90,6 +90,8 @@ Thank you for checking our links.
 ## Grand Finale
 
 Please take a few minutes to write down any additional feedback you may have of the website as a whole.
+
+*(Give students a few minutes to write)
 
 This concludes our trial session. We would like to thank you for participating and helping us create a user-friendly and informative
 website that will help many students.
