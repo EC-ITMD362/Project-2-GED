@@ -72,7 +72,7 @@ please remember to write down any issue that you come accross.
 5. In lab 7, how many items must you have in your usability checklist?
 6. What is the topic for the Week 13 class?
 7. What is the title of the second project?
-8. What is the time and location of course?
+8. What is the time and location of intructor's office hours?
 9. What is the total amount of points you could earn in this course?
 10. Where would I go to find a link to a CSS Validator? Please give me name of the section and subsection.
 
